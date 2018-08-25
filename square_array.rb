@@ -1,6 +1,6 @@
 def square_array(array)
   new_array = array
   new_array.each do
-    Math.sqrt
+    new_array[i].Math.sqrt
   end
 end
