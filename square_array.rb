@@ -1,5 +1,7 @@
 def square_array(array)
   array.each do
-    Math.sqrt(array[0])
+    i = 0
+    Math.sqrt(array[i])
+    i += 1
   end
 end
